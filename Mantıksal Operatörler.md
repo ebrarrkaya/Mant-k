@@ -1,5 +1,5 @@
 # MANTIKSAL OPERATÖRLER
-https://github.com/ebrarrkaya/mantiksal/blob/1f88052829b8ead767f51785b8305925e56762cf/Mant%C4%B1ksal%20Operat%C3%B6rler.md
+https://github.com/ebrarrkaya/mantiksal/blob/591ce4c01870c7a1eeee9482664140ef7f4bbab8/Mant%C4%B1ksal%20Operat%C3%B6rler.md
 
 # STANDART ÇIKTI ALMA KODU
 https://github.com/ebrarrkaya/mantiksal/blob/1f88052829b8ead767f51785b8305925e56762cf/mantik.py
