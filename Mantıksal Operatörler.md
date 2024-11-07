@@ -5,4 +5,4 @@
 <a href="https://github.com/ebrarrkaya/Mant-k/blob/d19373e4ec3dc910758db99f95117d73080a84f0/standartciktialma.py">Tıklayınız</a>
 
 # STANDART ÇIKTI
-https://github.com/ebrarrkaya/mantiksal/blob/1f88052829b8ead767f51785b8305925e56762cf/mant%C4%B1ksaloperat%C3%B6r%C3%A7%C4%B1kt%C4%B1s%C4%B1.png
+<a href="https://github.com/ebrarrkaya/mantiksal/blob/1f88052829b8ead767f51785b8305925e56762cf/mant%C4%B1ksaloperat%C3%B6r%C3%A7%C4%B1kt%C4%B1s%C4%B1.png">Tıklayınız</a>
