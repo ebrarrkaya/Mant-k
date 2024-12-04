@@ -5,3 +5,5 @@ Not: Eğer tek  bir printle birden fazla veriyi görüntülemek istiyorsak veril
 
 [Örnek Kod](https://github.com/ebrarrkaya/Mant-k/blob/2fc41e0da805be5897a0edc43160c01fb5146215/standartciktialma.py)
 
+[Çıktısı](https://github.com/ebrarrkaya/Mant-k/blob/15748e8a38107f1d730708bede4678173cecf002/standart%C3%A7%C4%B1kt%C4%B1.png)
+
